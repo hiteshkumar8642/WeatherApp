@@ -2,16 +2,7 @@
 
 ## Overview
 
-This Django project is a real-time data processing system for weather monitoring. It retrieves weather data from the OpenWeatherMap API, processes it to provide daily summaries, and supports alerting thresholds. The system also features visualizations for weather summaries and historical trends.
-
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Setup](#setup)
-- [Running the Application](#running-the-application)
-- [Running Tests](#running-tests)
-- [Sample Usage](#sample-usage)
-- [License](#license)
+This Django project is a real-time data processing system for weather monitoring. It retrieves weather data from the OpenWeatherMap API, processes it to provide daily summaries, and supports alerting thresholds. 
 
 ## Table of Contents
 
